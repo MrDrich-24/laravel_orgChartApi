@@ -1,4 +1,5 @@
 # Laravel API for Organizational Chart
+I use laravel 10 to develop an API in managing and visualizing an organizational chart. This aims to handle position names and define connections between positions.
 
 ## Table of Contents
 - [Requirements](#requirements)
@@ -10,8 +11,8 @@
 Before you begin, ensure you have met the following requirements:
 - PHP 8.1 or higher
 - Composer
-- MySQL or another supported database
-- Laravel Installer (optional, but recommended)
+- MySQL 8
+- Laravel Installer (optional)
 
 ## Installation
 
